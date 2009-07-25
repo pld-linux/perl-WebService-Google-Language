@@ -8,7 +8,7 @@
 Summary:	WebService::Google::Language - Perl interface to the Google AJAX Language API
 Name:		perl-WebService-Google-Language
 Version:	0.09
-Release:	0.11
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
