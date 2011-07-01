@@ -7,13 +7,13 @@
 %define	pnam	Google-Language
 Summary:	WebService::Google::Language - Perl interface to the Google AJAX Language API
 Name:		perl-WebService-Google-Language
-Version:	0.09
-Release:	2
+Version:	0.13
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/WebService/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	7b9cc05a8bf9601fafccc6a6735d6589
+# Source0-md5:	b5c9cf5ac99d961b104e751dac5649cc
 URL:		http://search.cpan.org/dist/WebService-Google-Language/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
